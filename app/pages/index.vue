@@ -21,7 +21,7 @@
               type="text"
               name="email"
               placeholder="your@email.com"
-              aria-label="Email address"
+              aria-label="Liposi lemubane"
             />
 
             <button
