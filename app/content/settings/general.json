@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Portfolio",
+  "titleTemplate": "| Motiv8",
+  "welcomeText": "Hi, It's Lindokuhle determined somebody who has an interest in the evergrowing technology trends.\n\nI am a motivated Young man who would appreciate involvement in the improvement of the country's stand concerning technology trends, especially in the software development sector.\n\n\n\n\n\nHAPPY CODING",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Lindokuhle N Dlamini Portfolio",
   "seoMetaImage": ""
 }
